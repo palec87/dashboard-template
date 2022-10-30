@@ -87,3 +87,8 @@ lerna-debug.log
 # System Files
 .DS_Store
 Thumbs.db
+
+internal-report-template.docx
+landlord-report-template.docx
+dashboard.json
+report-dashboard.json
